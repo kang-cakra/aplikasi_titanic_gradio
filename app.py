@@ -52,9 +52,7 @@ with gr.Blocks() as app:
                        <p align="justify"><h3>
                        Aplikasi ini dapat memprediksi keselamatan seorang penumpang kapal titanic berdasarkan data inputan baru yang diinputkan (sebagai penumpang baru), prediksi diproses menggunakan model machine learning yang sudah dilatih sebelumnya. Berdasarkan dataset "titanic.csv" yang sudah melalui tahap preprocessing sebelumnya.<br>
                        <br>
-                       Aplikasi ini dibuat untuk memenuhi tugas <b>"Big Data Analysis"</b>, dikerjakan oleh:<br>
-                       Nama    : Cakra Arganata<br>
-                       NIM     : 1223903<br>
+                       Aplikasi ini dibuat untuk memenuhi tugas <b>"Big Data Analysis"</b>
                        </h3></p>
                        """)
 
